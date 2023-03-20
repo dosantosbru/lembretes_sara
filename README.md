@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>README - Sara.com.br - Criação de Lembretes para Medicamentos</title>
   </head>
   <body>
     <h1>Sara.com.br - Criação de Lembretes para Medicamentos</h1>
@@ -32,6 +31,7 @@
     <p>Ao final da execução do teste, é esperado que todos os lembretes para os medicamentos da lista tenham sido criados com sucesso. Caso algum passo do teste falhe, o Cypress irá mostrar uma mensagem de erro indicando qual foi o problema encontrado.</p>
   </body>
 </html>
+
 
 
 ![Imagem do WhatsApp de 2023-03-20 à(s) 15 19 39](https://user-images.githubusercontent.com/124794606/226431505-33c59363-3707-4390-885f-d449a03b3b9f.jpg)
